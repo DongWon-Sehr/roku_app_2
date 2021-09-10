@@ -1,5 +1,6 @@
 # Directories #
 origin_source/
+feed/*
  
 # OS Files #
 .DS_Store
